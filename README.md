@@ -5,11 +5,11 @@
 
 ---
 
-## 💡 Project Overview
+## Project Overview
 
-[cite_start]This project, **"Smart Timetable Management System for University Students,"** aims to provide a centralized and intelligent platform to help students manage their academic schedules effectively[cite: 3]. [cite_start]Developed as part of the **CPM 22503: PROJECT MANAGEMENT SYSTEMS** course at the South Eastern University of Sri Lanka, this system will integrate personal profiles with automated timetable generation, notifications, and other essential university announcements[cite: 1, 2, 9].
+[cite_start]This project, **"Smart Timetable Management System,"** aims to provide a centralized and intelligent platform to help students manage their academic schedules effectively[cite: 3]. [cite_start]Developed as part of the **CPM 22503: PROJECT MANAGEMENT SYSTEMS** course at the South Eastern University of Sri Lanka, this system will integrate personal profiles with automated timetable generation, notifications, and other essential university announcements[cite: 1, 2, 9].
 
-## ✨ Key Features (Scope)
+## Key Features (Scope)
 
 The system is designed with several core modules to enhance the student experience:
 
@@ -40,7 +40,7 @@ The system is designed with several core modules to enhance the student experien
 
 ---
 
-## 🗓️ Project Timeline (Work Breakdown Structure)
+## Project Timeline (Work Breakdown Structure)
 
 The project is structured into seven major phases with estimated durations:
 
@@ -58,7 +58,7 @@ The project is structured into seven major phases with estimated durations:
 
 ---
 
-## 👨‍💻 Group Members
+## Group Members
 
 [cite_start]This project is being developed by **Group-I** from the Department of Islamic Studies, Faculty of Islamic Studies and Arabic Language[cite: 4, 7, 8].
 
@@ -71,7 +71,7 @@ The project is structured into seven major phases with estimated durations:
 
 ## 🤝 Contribution
 
-We welcome suggestions and feedback! If you find any issues or have ideas for improvement, please visit our **[Issues](https://github.com/futurtec/Smart Timetable Management System for University Students/issues)** tab to create a report.
+We welcome suggestions and feedback! If you find any issues or have ideas for improvement, please visit our **[Issues](https://github.com/futurtec/Smart_Timetable_Management_System/issues)** tab to create a report.
 
 ---
 
