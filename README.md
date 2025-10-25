@@ -1,4 +1,4 @@
-# Smart Timetable Management System for University Students
+# Smart Timetable Management System
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Project Status](https://img.shields.io/badge/status-In%20Progress-orange.svg)]()
